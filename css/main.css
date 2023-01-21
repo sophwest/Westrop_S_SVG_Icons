@@ -1,3 +1,16 @@
+/* 
+
+    CSS Guide
+
+    1. General Styles
+    2. Grid
+    3. Header
+    4. Page content
+    5. Footer
+
+*/
+
+/* 1. ---General Styles--- */
 * {
     margin: 0;
     padding: 0;
@@ -7,6 +20,7 @@
 }
 
 body {
+    font-family: 'Varela Round', 'Arial', sans-serif;
     font-size: 16px;
     background-color: #fff;
     color: rgb(0, 0, 0);
@@ -16,16 +30,47 @@ body {
     display: none;
 }
 
-.icon-container {
-    text-align: center;
+.container {
+    width: 1200px;
+    margin: 0 auto;
 }
 
-.wrapper {
-    width: 45%;
-    display: inline-block;
-    padding: 1em;
+a {
+    text-decoration: none;
 }
 
-.wrapper img {
-    width: 100%;
+ul {
+	list-style-type: none;
 }
+
+/* 2. ---Grid--- */
+
+/* this is the exact same grid used in Adobe XD, we have recreated 
+the grid using CSS. It is a class becasue we will use multiple grids */
+
+.grid {
+    display: grid;
+    padding-left: 15px;
+    padding-right: 15px;
+    grid-template-columns: repeat(12, 70px);
+    grid-column-gap: 30px;
+}
+
+/* 3. ---Header--- */
+
+#main-header {
+    grid-column: 1/-1;
+}
+
+#main-header nav {
+    grid-column: 1/-1;
+}
+
+/* 4. ---Page content--- */
+#forsale {
+    grid-column: 3/10;
+}
+
+/* 5. ---Footer--- */
+
+

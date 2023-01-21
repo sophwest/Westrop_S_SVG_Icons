@@ -1,6 +1,6 @@
 # Pokeball Icon Marketplace
 
-What if you could Pokeballs...online...and they're actually just SVG icons? Now you can, on this page where I am learning and practicing Javascript for the first time.  
+Welcome to Pokemart! What if you could Pokeballs...online...and they're actually just SVG icons? Now you can, on this page where I am learning and practicing Javascript for the first time.  
 Disclaimer: You can't actually buy Pokeballs through my page. I am a student, I don't know how to run a business.  
 
 ## Usage
@@ -17,7 +17,7 @@ sophwest / Sophia Westrop
 ***01/19/2023*** - Finished SVG's  
 ***01/20/2023*** - Optimized SVG's and created repo.  
 ***01/20/2023*** - Cried because my ai file got corrupted and I lost my optimized svg's! Put in placeholder image for the time being.
-***01/21/2023*** - Re-did SVG's! Added optimized SVG's to the images. Created static page in HTML and CSS.
+***01/21/2023*** - Re-did SVG's! Added optimized SVG's to the images. Created static page in HTML and CSS with a little Javascript.
 
 ## Credits
 
