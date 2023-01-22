@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 112">
+<svg id="ultraball" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 112">
   <defs>
     <style>
       .cls-1 {
@@ -22,6 +22,17 @@
         fill: #ffce33;
       }
     </style>
+    
+    <script>
+      let ultraBall = document.querySelector('#ultraball');
+
+      function logMyId() {
+        console.log('I selected this kind of Pokeball!', this.id);
+      }
+
+    ultraBall.addEventListener('click', logMyId);
+    </script>
+
   </defs>
   <g id="ultra-ball">
     <circle id="blackoutline" cx="56" cy="56" r="56"/>

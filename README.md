@@ -16,8 +16,9 @@ sophwest / Sophia Westrop
 ***01/18/2023*** - Made a couple Pokeball SVG's in Illustrator  
 ***01/19/2023*** - Finished SVG's  
 ***01/20/2023*** - Optimized SVG's and created repo.  
-***01/20/2023*** - Cried because my ai file got corrupted and I lost my optimized svg's! Put in placeholder image for the time being.
-***01/21/2023*** - Re-did SVG's! Added optimized SVG's to the images. Wrestled with CSS grid and gave up on that and took the grid out. 
+***01/20/2023*** - Cried because my ai file got corrupted and I lost my optimized svg's! Put in placeholder image for the time being.  
+***01/21/2023*** - Re-did SVG's! Added optimized SVG's to the images. Wrestled with CSS grid for like 6 hours and gave up on that and took the grid out.  
+***01/21/2023*** - Styled to the best of my ability before just moving on to Javascript. Added Javascript.   
 
 ## Credits
 
