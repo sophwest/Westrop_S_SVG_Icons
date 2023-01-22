@@ -28,7 +28,7 @@
       }
     </style>
   </defs>
-  <g id="DIVE_BALL" data-name="DIVE BALL">
+  <g id="dive-ball">
     <circle id="blackoutline" cx="56" cy="56" r="56"/>
     <circle id="ballblue" class="cls-6" cx="56" cy="56" r="52.07"/>
     <path id="shadowbottom" class="cls-3" d="m104.99,76.92c-8.42,17.41-28.36,31.15-48.99,31.15-11.57,0-22.37-3.76-31.01-10.15l17-5c19,9,23,8,40.52-.47l22.48-15.53Z"/>

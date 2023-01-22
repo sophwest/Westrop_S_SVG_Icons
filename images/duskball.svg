@@ -23,7 +23,7 @@
       }
     </style>
   </defs>
-  <g id="DUSK_BALL" data-name="DUSK BALL">
+  <g id="dusk-ball">
     <circle id="blackoutline" cx="56" cy="56" r="56"/>
     <circle id="ballgreen" class="cls-5" cx="56" cy="56" r="52.07"/>
     <ellipse id="ballhighlight" class="cls-1" cx="50.99" cy="60.92" rx="36" ry="42"/>

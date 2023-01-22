@@ -27,7 +27,7 @@
       }
     </style>
   </defs>
-  <g id="DREAM_BALL" data-name="DREAM BALL">
+  <g id="dream-ball">
     <circle id="blackoutline" cx="56" cy="56" r="56"/>
     <circle id="ballpink" class="cls-5" cx="56" cy="56" r="52.07"/>
     <path id="ballhighlight" class="cls-1" d="m4.29,53.49c8.79,9.78,21.53,15.93,35.71,15.93,26.51,0,30-4.5,40-18.5.7-.97,10-19,4-36-8.72-6.67-16.09-10.82-27.92-10.82C28.26,4.1,5.57,26,4.29,53.49Z"/>
