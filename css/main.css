@@ -121,6 +121,10 @@ li {
     font-size: 30px;
 }
 
+#pokeball:hover {
+    cursor: pointer;
+  }
+
 /* 4. ---Footer--- */
 
 #footer {
