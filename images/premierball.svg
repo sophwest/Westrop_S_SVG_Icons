@@ -15,7 +15,7 @@
       }
     </style>
   </defs>
-  <g id="PREMIER_BALL" data-name="PREMIER BALL">
+  <g id="premier-ball">
     <circle id="blackoutline" cx="56" cy="56" r="56"/>
     <circle id="shadowbottom" class="cls-2" cx="56" cy="56" r="52.07"/>
     <path id="ballhighlight" class="cls-1" d="m4.36,52.8c8.79,9.78,21.53,15.93,35.71,15.93,26.51,0,48-21.49,48-48,0-2.27-.17-4.49-.47-6.68-8.72-6.67-19.62-10.64-31.45-10.64C28.33,3.41,5.64,25.31,4.36,52.8Z"/>

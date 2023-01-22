@@ -31,7 +31,7 @@
       }
     </style>
   </defs>
-  <g id="MASTER_BALL" data-name="MASTER BALL">
+  <g id="master-ball">
     <circle id="blackoutline" cx="56" cy="56" r="56"/>
     <circle id="ballpurple" class="cls-3" cx="56" cy="56" r="52.07"/>
     <path id="whitebottom" class="cls-2" d="m63.96,85.92c-22.21,0-42.2-3.21-56.25-10.43,7.72,19.1,26.42,32.58,48.28,32.58,20.64,0,38.47-12.01,46.89-29.42-11.43,4.61-24.72,7.27-38.93,7.27Z"/>
