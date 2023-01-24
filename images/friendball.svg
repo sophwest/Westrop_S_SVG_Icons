@@ -25,6 +25,21 @@
       .cls-6 {
         fill: #9bc64a;
       }
+      #friendball, #centerwhite {
+        transition: all 0.5s ease;
+        overflow: hidden;
+      }
+
+      #friendball:hover {
+        cursor: pointer;
+        transform: rotate(5deg);
+        overflow: hidden;
+      }
+
+      #friendball:hover #centerwhite {
+        fill: rgb(255, 235, 121);
+      }
+
     </style>
         
     <script>

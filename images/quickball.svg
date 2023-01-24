@@ -18,13 +18,29 @@
         fill: #e9fbff;
         opacity: .53;
       }
+
+      #quickball, #centerwhite {
+        transition: all 0.5s ease;
+        overflow: hidden;
+      }
+
+      #quickball:hover {
+        cursor: pointer;
+        transform: rotate(5deg);
+        overflow: hidden;
+      }
+
+      #quickball:hover #centerwhite {
+        fill: rgb(255, 235, 121);
+      }
+      
     </style>
         
     <script>
       let quickBall = document.querySelector('#quickball');
 
       function logMyId() {
-        console.log('I selected this kind of Pokeball!', this.id);
+        console.log('I selected this kind of quickball!', this.id);
       }
 
     quickBall.addEventListener('click', logMyId);
