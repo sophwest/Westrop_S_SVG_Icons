@@ -19,15 +19,23 @@ sophwest / Sophia Westrop
 ***01/20/2023*** - Cried because my ai file got corrupted and I lost my optimized svg's! Put in placeholder image for the time being.  
 ***01/21/2023*** - Re-did SVG's! Added optimized SVG's to the images. Wrestled with CSS grid for like 6 hours and gave up on that and took the grid out.  
 ***01/21/2023*** - Styled to the best of my ability before just moving on to Javascript. Added Javascript.  
-***01/23/2023*** - Got an extra life!  Went back to tackle the grid again and styled everything WAY better. Needed fresh eyes!
+***01/23/2023*** - Got an extra life!  Went back to tackle the grid again with fresh eyes and styled everything WAY better.
+***01/23/2023*** - Did all the animations using CSS and manipulated the SVG's to have an element change colour. All done! 
 
 ## Credits
 
-All images used are recreations made for educational purposes only. The images are copyrighted or is a registered trademark. The contributor claims fair use. No copyright infringement is intended.
+All images used are recreations made for educational purposes only. The images are copyrighted or is a registered trademark. The contributor claims fair use. No copyright infringement is intended.  
 
-Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use.
+Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use.  
 
-© 2023 Pokémon. © 1995–2023 Nintendo/Creatures Inc./GAME FREAK inc.
+© 2023 Pokémon. © 1995–2023 Nintendo/Creatures Inc./GAME FREAK inc.  
+
+Dan Singer - Junior problem solver
+This guy named Andy I know online who does this for a living - Senior problem solver  
+
+## ANTI-Credits  
+
+My external hard drive for corrupting my SVG's. Corrupt my files once, shame on you. Corrupt my files twice, shame on me and you're being exiled to the forgotten tech drawer.
 
 ## License
 
